@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsBulkTDB_Report_SubContract" targetNamespace="http://tempuri.org/dsBulkTDB_Report_SubContract.xsd" xmlns:mstns="http://tempuri.org/dsBulkTDB_Report_SubContract.xsd" xmlns="http://tempuri.org/dsBulkTDB_Report_SubContract.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsBulkTDB_Report_SubContract" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsBulkTDB_Report_SubContract" msprop:Generator_DataSetName="dsBulkTDB_Report_SubContract">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VIEW_BulkTDB_Report_SubContract" msprop:Generator_UserTableName="VIEW_BulkTDB_Report_SubContract" msprop:Generator_RowDeletedName="VIEW_BulkTDB_Report_SubContractRowDeleted" msprop:Generator_RowChangedName="VIEW_BulkTDB_Report_SubContractRowChanged" msprop:Generator_RowClassName="VIEW_BulkTDB_Report_SubContractRow" msprop:Generator_RowChangingName="VIEW_BulkTDB_Report_SubContractRowChanging" msprop:Generator_RowEvArgName="VIEW_BulkTDB_Report_SubContractRowChangeEvent" msprop:Generator_RowEvHandlerName="VIEW_BulkTDB_Report_SubContractRowChangeEventHandler" msprop:Generator_TableClassName="VIEW_BulkTDB_Report_SubContractDataTable" msprop:Generator_TableVarName="tableVIEW_BulkTDB_Report_SubContract" msprop:Generator_RowDeletingName="VIEW_BulkTDB_Report_SubContractRowDeleting" msprop:Generator_TablePropName="VIEW_BulkTDB_Report_SubContract">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="InspDate" msprop:Generator_UserColumnName="InspDate" msprop:Generator_ColumnVarNameInTable="columnInspDate" msprop:Generator_ColumnPropNameInRow="InspDate" msprop:Generator_ColumnPropNameInTable="InspDateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FamilyDesc" msprop:Generator_UserColumnName="FamilyDesc" msprop:Generator_ColumnVarNameInTable="columnFamilyDesc" msprop:Generator_ColumnPropNameInRow="FamilyDesc" msprop:Generator_ColumnPropNameInTable="FamilyDescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BPCNONBPC" msprop:Generator_UserColumnName="BPCNONBPC" msprop:Generator_ColumnVarNameInTable="columnBPCNONBPC" msprop:Generator_ColumnPropNameInRow="BPCNONBPC" msprop:Generator_ColumnPropNameInTable="BPCNONBPCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_UserColumnName="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SubContract" msprop:Generator_UserColumnName="SubContract" msprop:Generator_ColumnVarNameInTable="columnSubContract" msprop:Generator_ColumnPropNameInRow="SubContract" msprop:Generator_ColumnPropNameInTable="SubContractColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FlagRL" msprop:Generator_UserColumnName="FlagRL" msprop:Generator_ColumnVarNameInTable="columnFlagRL" msprop:Generator_ColumnPropNameInRow="FlagRL" msprop:Generator_ColumnPropNameInTable="FlagRLColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FormulaType" msprop:Generator_UserColumnName="FormulaType" msprop:Generator_ColumnVarNameInTable="columnFormulaType" msprop:Generator_ColumnPropNameInRow="FormulaType" msprop:Generator_ColumnPropNameInTable="FormulaTypeColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

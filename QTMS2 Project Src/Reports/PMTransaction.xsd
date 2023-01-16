@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PMTransaction" targetNamespace="http://tempuri.org/PMTransaction.xsd" xmlns:mstns="http://tempuri.org/PMTransaction.xsd" xmlns="http://tempuri.org/PMTransaction.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="PMTransaction" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="PMTransaction" msprop:Generator_DataSetName="PMTransaction">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dt" msprop:Generator_UserTableName="dt" msprop:Generator_RowDeletedName="dtRowDeleted" msprop:Generator_TableClassName="dtDataTable" msprop:Generator_RowChangedName="dtRowChanged" msprop:Generator_RowClassName="dtRow" msprop:Generator_RowChangingName="dtRowChanging" msprop:Generator_RowEvArgName="dtRowChangeEvent" msprop:Generator_RowEvHandlerName="dtRowChangeEventHandler" msprop:Generator_TablePropName="dt" msprop:Generator_TableVarName="tabledt" msprop:Generator_RowDeletingName="dtRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="InspectionMethod" msprop:Generator_UserColumnName="InspectionMethod" msprop:Generator_ColumnPropNameInRow="InspectionMethod" msprop:Generator_ColumnVarNameInTable="columnInspectionMethod" msprop:Generator_ColumnPropNameInTable="InspectionMethodColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Frequency" msprop:Generator_UserColumnName="Frequency" msprop:Generator_ColumnPropNameInRow="Frequency" msprop:Generator_ColumnVarNameInTable="columnFrequency" msprop:Generator_ColumnPropNameInTable="FrequencyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LotSize" msprop:Generator_UserColumnName="LotSize" msprop:Generator_ColumnPropNameInRow="LotSize" msprop:Generator_ColumnVarNameInTable="columnLotSize" msprop:Generator_ColumnPropNameInTable="LotSizeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SampleSizeStandard" msprop:Generator_UserColumnName="SampleSizeStandard" msprop:Generator_ColumnPropNameInRow="SampleSizeStandard" msprop:Generator_ColumnVarNameInTable="columnSampleSizeStandard" msprop:Generator_ColumnPropNameInTable="SampleSizeStandardColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLStandard" msprop:Generator_UserColumnName="AQLStandard" msprop:Generator_ColumnPropNameInRow="AQLStandard" msprop:Generator_ColumnVarNameInTable="columnAQLStandard" msprop:Generator_ColumnPropNameInTable="AQLStandardColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SampleSizeReading" msprop:Generator_UserColumnName="SampleSizeReading" msprop:Generator_ColumnPropNameInRow="SampleSizeReading" msprop:Generator_ColumnVarNameInTable="columnSampleSizeReading" msprop:Generator_ColumnPropNameInTable="SampleSizeReadingColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLzStandard" msprop:Generator_UserColumnName="AQLzStandard" msprop:Generator_ColumnPropNameInRow="AQLzStandard" msprop:Generator_ColumnVarNameInTable="columnAQLzStandard" msprop:Generator_ColumnPropNameInTable="AQLzStandardColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLReading" msprop:Generator_UserColumnName="AQLReading" msprop:Generator_ColumnPropNameInRow="AQLReading" msprop:Generator_ColumnVarNameInTable="columnAQLReading" msprop:Generator_ColumnPropNameInTable="AQLReadingColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLzReading" msprop:Generator_UserColumnName="AQLzReading" msprop:Generator_ColumnPropNameInRow="AQLzReading" msprop:Generator_ColumnVarNameInTable="columnAQLzReading" msprop:Generator_ColumnPropNameInTable="AQLzReadingColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLcStandard" msprop:Generator_UserColumnName="AQLcStandard" msprop:Generator_ColumnPropNameInRow="AQLcStandard" msprop:Generator_ColumnVarNameInTable="columnAQLcStandard" msprop:Generator_ColumnPropNameInTable="AQLcStandardColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLMStandard" msprop:Generator_UserColumnName="AQLMStandard" msprop:Generator_ColumnPropNameInRow="AQLMStandard" msprop:Generator_ColumnVarNameInTable="columnAQLMStandard" msprop:Generator_ColumnPropNameInTable="AQLMStandardColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLcReading" msprop:Generator_UserColumnName="AQLcReading" msprop:Generator_ColumnPropNameInRow="AQLcReading" msprop:Generator_ColumnVarNameInTable="columnAQLcReading" msprop:Generator_ColumnPropNameInTable="AQLcReadingColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLM1Standard" msprop:Generator_UserColumnName="AQLM1Standard" msprop:Generator_ColumnPropNameInRow="AQLM1Standard" msprop:Generator_ColumnVarNameInTable="columnAQLM1Standard" msprop:Generator_ColumnPropNameInTable="AQLM1StandardColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLMReading" msprop:Generator_UserColumnName="AQLMReading" msprop:Generator_ColumnPropNameInRow="AQLMReading" msprop:Generator_ColumnVarNameInTable="columnAQLMReading" msprop:Generator_ColumnPropNameInTable="AQLMReadingColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AQLM1Reading" msprop:Generator_UserColumnName="AQLM1Reading" msprop:Generator_ColumnPropNameInRow="AQLM1Reading" msprop:Generator_ColumnVarNameInTable="columnAQLM1Reading" msprop:Generator_ColumnPropNameInTable="AQLM1ReadingColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TestMethod" msprop:Generator_UserColumnName="TestMethod" msprop:Generator_ColumnPropNameInRow="TestMethod" msprop:Generator_ColumnVarNameInTable="columnTestMethod" msprop:Generator_ColumnPropNameInTable="TestMethodColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

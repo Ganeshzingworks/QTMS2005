@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="FGSummaryReport" targetNamespace="http://tempuri.org/FGSummaryReport.xsd" xmlns:mstns="http://tempuri.org/FGSummaryReport.xsd" xmlns="http://tempuri.org/FGSummaryReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="FGSummaryReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="FGSummaryReport" msprop:Generator_DataSetName="FGSummaryReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtFgSummary" msprop:Generator_UserTableName="DtFgSummary" msprop:Generator_RowDeletedName="DtFgSummaryRowDeleted" msprop:Generator_RowChangedName="DtFgSummaryRowChanged" msprop:Generator_RowClassName="DtFgSummaryRow" msprop:Generator_RowChangingName="DtFgSummaryRowChanging" msprop:Generator_RowEvArgName="DtFgSummaryRowChangeEvent" msprop:Generator_RowEvHandlerName="DtFgSummaryRowChangeEventHandler" msprop:Generator_TableClassName="DtFgSummaryDataTable" msprop:Generator_TableVarName="tableDtFgSummary" msprop:Generator_RowDeletingName="DtFgSummaryRowDeleting" msprop:Generator_TablePropName="DtFgSummary">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FGCode" msprop:Generator_UserColumnName="FGCode" msprop:Generator_ColumnVarNameInTable="columnFGCode" msprop:Generator_ColumnPropNameInRow="FGCode" msprop:Generator_ColumnPropNameInTable="FGCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FGDesc" msprop:Generator_UserColumnName="FGDesc" msprop:Generator_ColumnVarNameInTable="columnFGDesc" msprop:Generator_ColumnPropNameInRow="FGDesc" msprop:Generator_ColumnPropNameInTable="FGDescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TechFamDesc" msprop:Generator_UserColumnName="TechFamDesc" msprop:Generator_ColumnVarNameInTable="columnTechFamDesc" msprop:Generator_ColumnPropNameInRow="TechFamDesc" msprop:Generator_ColumnPropNameInTable="TechFamDescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TrackCodeFG" msprop:Generator_UserColumnName="TrackCodeFG" msprop:Generator_ColumnVarNameInTable="columnTrackCodeFG" msprop:Generator_ColumnPropNameInRow="TrackCodeFG" msprop:Generator_ColumnPropNameInTable="TrackCodeFGColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="BatchNoFG" msprop:Generator_UserColumnName="BatchNoFG" msprop:Generator_ColumnVarNameInTable="columnBatchNoFG" msprop:Generator_ColumnPropNameInRow="BatchNoFG" msprop:Generator_ColumnPropNameInTable="BatchNoFGColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FillDateFG" msprop:Generator_UserColumnName="FillDateFG" msprop:Generator_ColumnVarNameInTable="columnFillDateFG" msprop:Generator_ColumnPropNameInRow="FillDateFG" msprop:Generator_ColumnPropNameInTable="FillDateFGColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PriceFG" msprop:Generator_UserColumnName="PriceFG" msprop:Generator_ColumnVarNameInTable="columnPriceFG" msprop:Generator_ColumnPropNameInRow="PriceFG" msprop:Generator_ColumnPropNameInTable="PriceFGColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Decision" msprop:Generator_UserColumnName="Decision" msprop:Generator_ColumnVarNameInTable="columnDecision" msprop:Generator_ColumnPropNameInRow="Decision" msprop:Generator_ColumnPropNameInTable="DecisionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ActualStatus" msprop:Generator_UserColumnName="ActualStatus" msprop:Generator_ColumnVarNameInTable="columnActualStatus" msprop:Generator_ColumnPropNameInRow="ActualStatus" msprop:Generator_ColumnPropNameInTable="ActualStatusColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TestDate" msprop:Generator_UserColumnName="TestDate" msprop:Generator_ColumnVarNameInTable="columnTestDate" msprop:Generator_ColumnPropNameInRow="TestDate" msprop:Generator_ColumnPropNameInTable="TestDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FGTLFID" msprop:Generator_UserColumnName="FGTLFID" msprop:Generator_ColumnPropNameInRow="FGTLFID" msprop:Generator_ColumnVarNameInTable="columnFGTLFID" msprop:Generator_ColumnPropNameInTable="FGTLFIDColumn" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

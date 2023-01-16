@@ -1,0 +1,24 @@
+1] Planning the task priority after dicussion with client & informing to Manager about the same.
+2] Setting & implemening dedlines for the task & assigning the task to team. Explaing them issue or logic behind the task.
+3] Testing the changes on Test server before the live server. Resolves the final issues & then only push to the Live server and ask same to do to the team.
+4] Ask team to update the task status daily.
+5] Updating the status of task on daily basis to Client & Manager.
+
+ELECTricity Consumer no. 160260444309
+
+wartosin wart remover
+
+Assistant Municipal Commissioner Office, Warje-Karvenagar, Swpnashilp Commercial Building, Pune
+Pune City, Pune, Maharashtra - 411038 Map Permanent Center
+ Opened On 12-Jul-2013
+ Satish Margu Chaugule
+ 2030207333
+
+616632962
+
+Suppose its a+b+c
+Then the logic is..
+First 2 digits = a x b = 7x2 = 14
+next 2 digits = a x c = 7x5 = 35
+Last 2 digits = b(a+c) = 2(7+5) = 24 Now reverse of 24 is 42
+So the answer is 143542

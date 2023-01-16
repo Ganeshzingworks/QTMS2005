@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsStabilityTest_Report" targetNamespace="http://tempuri.org/dsStabilityTest_Report.xsd" xmlns:mstns="http://tempuri.org/dsStabilityTest_Report.xsd" xmlns="http://tempuri.org/dsStabilityTest_Report.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.QTMS.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OleDb">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_StabilityTest_ReportTableAdapter" GeneratorDataComponentClassName="View_StabilityTest_ReportTableAdapter" Name="View_StabilityTest_Report" UserDataComponentName="View_StabilityTest_ReportTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="QTMS_BDI_Vijay.dbo.View_StabilityTest_Report" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT "FMID", "Test", "FGPhyMethodNo", "NormsMin", "NormsMax", "NormsReading", "TestType", "Remark", "CompletedDay", "ReadingType", "FormulaNo", "BulkDesc", "CreatedOn", "NoBatches" FROM "dbo"."View_StabilityTest_Report"</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="FMID" DataSetColumn="FMID" />
+              <Mapping SourceColumn="Test" DataSetColumn="Test" />
+              <Mapping SourceColumn="FGPhyMethodNo" DataSetColumn="FGPhyMethodNo" />
+              <Mapping SourceColumn="NormsMin" DataSetColumn="NormsMin" />
+              <Mapping SourceColumn="NormsMax" DataSetColumn="NormsMax" />
+              <Mapping SourceColumn="NormsReading" DataSetColumn="NormsReading" />
+              <Mapping SourceColumn="TestType" DataSetColumn="TestType" />
+              <Mapping SourceColumn="Remark" DataSetColumn="Remark" />
+              <Mapping SourceColumn="CompletedDay" DataSetColumn="CompletedDay" />
+              <Mapping SourceColumn="ReadingType" DataSetColumn="ReadingType" />
+              <Mapping SourceColumn="FormulaNo" DataSetColumn="FormulaNo" />
+              <Mapping SourceColumn="BulkDesc" DataSetColumn="BulkDesc" />
+              <Mapping SourceColumn="CreatedOn" DataSetColumn="CreatedOn" />
+              <Mapping SourceColumn="NoBatches" DataSetColumn="NoBatches" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsStabilityTest_Report" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsStabilityTest_Report" msprop:Generator_DataSetName="dsStabilityTest_Report">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_StabilityTest_Report" msprop:Generator_UserTableName="View_StabilityTest_Report" msprop:Generator_RowDeletedName="View_StabilityTest_ReportRowDeleted" msprop:Generator_TableClassName="View_StabilityTest_ReportDataTable" msprop:Generator_RowChangedName="View_StabilityTest_ReportRowChanged" msprop:Generator_RowClassName="View_StabilityTest_ReportRow" msprop:Generator_RowChangingName="View_StabilityTest_ReportRowChanging" msprop:Generator_RowEvArgName="View_StabilityTest_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="View_StabilityTest_ReportRowChangeEventHandler" msprop:Generator_TablePropName="View_StabilityTest_Report" msprop:Generator_TableVarName="tableView_StabilityTest_Report" msprop:Generator_RowDeletingName="View_StabilityTest_ReportRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FMID" msprop:Generator_UserColumnName="FMID" msprop:Generator_ColumnPropNameInRow="FMID" msprop:Generator_ColumnVarNameInTable="columnFMID" msprop:Generator_ColumnPropNameInTable="FMIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Test" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Test" msprop:Generator_ColumnPropNameInRow="Test" msprop:Generator_ColumnVarNameInTable="columnTest" msprop:Generator_ColumnPropNameInTable="TestColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="501" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FGPhyMethodNo" msprop:Generator_UserColumnName="FGPhyMethodNo" msprop:Generator_ColumnPropNameInRow="FGPhyMethodNo" msprop:Generator_ColumnVarNameInTable="columnFGPhyMethodNo" msprop:Generator_ColumnPropNameInTable="FGPhyMethodNoColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="NormsMin" msprop:Generator_UserColumnName="NormsMin" msprop:Generator_ColumnPropNameInRow="NormsMin" msprop:Generator_ColumnVarNameInTable="columnNormsMin" msprop:Generator_ColumnPropNameInTable="NormsMinColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NormsMax" msprop:Generator_UserColumnName="NormsMax" msprop:Generator_ColumnPropNameInRow="NormsMax" msprop:Generator_ColumnVarNameInTable="columnNormsMax" msprop:Generator_ColumnPropNameInTable="NormsMaxColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NormsReading" msprop:Generator_UserColumnName="NormsReading" msprop:Generator_ColumnPropNameInRow="NormsReading" msprop:Generator_ColumnVarNameInTable="columnNormsReading" msprop:Generator_ColumnPropNameInTable="NormsReadingColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TestType" msprop:Generator_UserColumnName="TestType" msprop:Generator_ColumnPropNameInRow="TestType" msprop:Generator_ColumnVarNameInTable="columnTestType" msprop:Generator_ColumnPropNameInTable="TestTypeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remark" msprop:Generator_UserColumnName="Remark" msprop:Generator_ColumnPropNameInRow="Remark" msprop:Generator_ColumnVarNameInTable="columnRemark" msprop:Generator_ColumnPropNameInTable="RemarkColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CompletedDay" msprop:Generator_UserColumnName="CompletedDay" msprop:Generator_ColumnPropNameInRow="CompletedDay" msprop:Generator_ColumnVarNameInTable="columnCompletedDay" msprop:Generator_ColumnPropNameInTable="CompletedDayColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ReadingType" msprop:Generator_UserColumnName="ReadingType" msprop:Generator_ColumnPropNameInRow="ReadingType" msprop:Generator_ColumnVarNameInTable="columnReadingType" msprop:Generator_ColumnPropNameInTable="ReadingTypeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FormulaNo" msprop:Generator_UserColumnName="FormulaNo" msprop:Generator_ColumnPropNameInRow="FormulaNo" msprop:Generator_ColumnVarNameInTable="columnFormulaNo" msprop:Generator_ColumnPropNameInTable="FormulaNoColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="BulkDesc" msprop:Generator_UserColumnName="BulkDesc" msprop:Generator_ColumnPropNameInRow="BulkDesc" msprop:Generator_ColumnVarNameInTable="columnBulkDesc" msprop:Generator_ColumnPropNameInTable="BulkDescColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CreatedOn" msprop:Generator_UserColumnName="CreatedOn" msprop:Generator_ColumnPropNameInRow="CreatedOn" msprop:Generator_ColumnVarNameInTable="columnCreatedOn" msprop:Generator_ColumnPropNameInTable="CreatedOnColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NoBatches" msprop:Generator_UserColumnName="NoBatches" msprop:Generator_ColumnPropNameInRow="NoBatches" msprop:Generator_ColumnVarNameInTable="columnNoBatches" msprop:Generator_ColumnPropNameInTable="NoBatchesColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsAOCFile" targetNamespace="http://tempuri.org/dsAOCFile.xsd" xmlns:mstns="http://tempuri.org/dsAOCFile.xsd" xmlns="http://tempuri.org/dsAOCFile.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsAOCFile" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsAOCFile" msprop:Generator_DataSetName="dsAOCFile">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AOCFile" msprop:Generator_UserTableName="AOCFile" msprop:Generator_RowDeletedName="AOCFileRowDeleted" msprop:Generator_TableClassName="AOCFileDataTable" msprop:Generator_RowChangedName="AOCFileRowChanged" msprop:Generator_RowClassName="AOCFileRow" msprop:Generator_RowChangingName="AOCFileRowChanging" msprop:Generator_RowEvArgName="AOCFileRowChangeEvent" msprop:Generator_RowEvHandlerName="AOCFileRowChangeEventHandler" msprop:Generator_TablePropName="AOCFile" msprop:Generator_TableVarName="tableAOCFile" msprop:Generator_RowDeletingName="AOCFileRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FillDate" msprop:Generator_UserColumnName="FillDate" msprop:Generator_ColumnPropNameInRow="FillDate" msprop:Generator_ColumnVarNameInTable="columnFillDate" msprop:Generator_ColumnPropNameInTable="FillDateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FormulaNo" msprop:Generator_UserColumnName="FormulaNo" msprop:Generator_ColumnPropNameInRow="FormulaNo" msprop:Generator_ColumnVarNameInTable="columnFormulaNo" msprop:Generator_ColumnPropNameInTable="FormulaNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FGCode" msprop:Generator_UserColumnName="FGCode" msprop:Generator_ColumnPropNameInRow="FGCode" msprop:Generator_ColumnVarNameInTable="columnFGCode" msprop:Generator_ColumnPropNameInTable="FGCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FGDesc" msprop:Generator_UserColumnName="FGDesc" msprop:Generator_ColumnPropNameInRow="FGDesc" msprop:Generator_ColumnVarNameInTable="columnFGDesc" msprop:Generator_ColumnPropNameInTable="FGDescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Batch_x0020_Coding" msprop:Generator_UserColumnName="Batch Coding" msprop:Generator_ColumnPropNameInRow="Batch_Coding" msprop:Generator_ColumnVarNameInTable="columnBatch_Coding" msprop:Generator_ColumnPropNameInTable="Batch_CodingColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Reason_x0020_for_x0020_approval" msprop:Generator_UserColumnName="Reason for approval" msprop:Generator_ColumnPropNameInRow="Reason_for_approval" msprop:Generator_ColumnVarNameInTable="columnReason_for_approval" msprop:Generator_ColumnPropNameInTable="Reason_for_approvalColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AOC_x0020_Sent_x0020_on" msprop:Generator_UserColumnName="AOC Sent on" msprop:Generator_ColumnPropNameInRow="AOC_Sent_on" msprop:Generator_ColumnVarNameInTable="columnAOC_Sent_on" msprop:Generator_ColumnPropNameInTable="AOC_Sent_onColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Received_x0020_on" msprop:Generator_UserColumnName="Received on" msprop:Generator_ColumnPropNameInRow="Received_on" msprop:Generator_ColumnVarNameInTable="columnReceived_on" msprop:Generator_ColumnPropNameInTable="Received_onColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Lead_x0020_time" msprop:Generator_UserColumnName="Lead time" msprop:Generator_ColumnPropNameInRow="Lead_time" msprop:Generator_ColumnVarNameInTable="columnLead_time" msprop:Generator_ColumnPropNameInTable="Lead_timeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_UserColumnName="Status" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInTable="StatusColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

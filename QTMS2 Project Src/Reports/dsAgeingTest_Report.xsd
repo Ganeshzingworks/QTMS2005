@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsAgeingTest_Report" targetNamespace="http://tempuri.org/dsAgeingTest_Report.xsd" xmlns:mstns="http://tempuri.org/dsAgeingTest_Report.xsd" xmlns="http://tempuri.org/dsAgeingTest_Report.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.QTMS.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OleDb">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_AgeingTest_ReportTableAdapter" GeneratorDataComponentClassName="View_AgeingTest_ReportTableAdapter" Name="View_AgeingTest_Report" UserDataComponentName="View_AgeingTest_ReportTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="QTMS_BDI_Vijay.dbo.View_AgeingTest_Report" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT "FMID", "TestNo", "NormsMin", "NormsMax", "Status", "Comment", "TestName", "Details", "Description", "QPFStatus", "QPFComment", "Confirmation", "AgeingResultComment", "CheckedBy", "VerifiedBy", "FormulaNo", "MfgWo", "MfgDate", "FillingDate" FROM "dbo"."View_AgeingTest_Report"</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="FMID" DataSetColumn="FMID" />
+              <Mapping SourceColumn="TestNo" DataSetColumn="TestNo" />
+              <Mapping SourceColumn="NormsMin" DataSetColumn="NormsMin" />
+              <Mapping SourceColumn="NormsMax" DataSetColumn="NormsMax" />
+              <Mapping SourceColumn="Status" DataSetColumn="Status" />
+              <Mapping SourceColumn="Comment" DataSetColumn="Comment" />
+              <Mapping SourceColumn="TestName" DataSetColumn="TestName" />
+              <Mapping SourceColumn="Details" DataSetColumn="Details" />
+              <Mapping SourceColumn="Description" DataSetColumn="Description" />
+              <Mapping SourceColumn="QPFStatus" DataSetColumn="QPFStatus" />
+              <Mapping SourceColumn="QPFComment" DataSetColumn="QPFComment" />
+              <Mapping SourceColumn="Confirmation" DataSetColumn="Confirmation" />
+              <Mapping SourceColumn="AgeingResultComment" DataSetColumn="AgeingResultComment" />
+              <Mapping SourceColumn="CheckedBy" DataSetColumn="CheckedBy" />
+              <Mapping SourceColumn="VerifiedBy" DataSetColumn="VerifiedBy" />
+              <Mapping SourceColumn="FormulaNo" DataSetColumn="FormulaNo" />
+              <Mapping SourceColumn="MfgWo" DataSetColumn="MfgWo" />
+              <Mapping SourceColumn="MfgDate" DataSetColumn="MfgDate" />
+              <Mapping SourceColumn="FillingDate" DataSetColumn="FillingDate" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsAgeingTest_Report" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsAgeingTest_Report" msprop:Generator_DataSetName="dsAgeingTest_Report">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_AgeingTest_Report" msprop:Generator_UserTableName="View_AgeingTest_Report" msprop:Generator_RowDeletedName="View_AgeingTest_ReportRowDeleted" msprop:Generator_RowChangedName="View_AgeingTest_ReportRowChanged" msprop:Generator_RowClassName="View_AgeingTest_ReportRow" msprop:Generator_RowChangingName="View_AgeingTest_ReportRowChanging" msprop:Generator_RowEvArgName="View_AgeingTest_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="View_AgeingTest_ReportRowChangeEventHandler" msprop:Generator_TableClassName="View_AgeingTest_ReportDataTable" msprop:Generator_TableVarName="tableView_AgeingTest_Report" msprop:Generator_RowDeletingName="View_AgeingTest_ReportRowDeleting" msprop:Generator_TablePropName="View_AgeingTest_Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FMID" msprop:Generator_UserColumnName="FMID" msprop:Generator_ColumnVarNameInTable="columnFMID" msprop:Generator_ColumnPropNameInRow="FMID" msprop:Generator_ColumnPropNameInTable="FMIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TestNo" msprop:Generator_UserColumnName="TestNo" msprop:Generator_ColumnVarNameInTable="columnTestNo" msprop:Generator_ColumnPropNameInRow="TestNo" msprop:Generator_ColumnPropNameInTable="TestNoColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="NormsMin" msprop:Generator_UserColumnName="NormsMin" msprop:Generator_ColumnVarNameInTable="columnNormsMin" msprop:Generator_ColumnPropNameInRow="NormsMin" msprop:Generator_ColumnPropNameInTable="NormsMinColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NormsMax" msprop:Generator_UserColumnName="NormsMax" msprop:Generator_ColumnVarNameInTable="columnNormsMax" msprop:Generator_ColumnPropNameInRow="NormsMax" msprop:Generator_ColumnPropNameInTable="NormsMaxColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Status" msprop:Generator_UserColumnName="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Comment" msprop:Generator_UserColumnName="Comment" msprop:Generator_ColumnVarNameInTable="columnComment" msprop:Generator_ColumnPropNameInRow="Comment" msprop:Generator_ColumnPropNameInTable="CommentColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TestName" msprop:Generator_UserColumnName="TestName" msprop:Generator_ColumnVarNameInTable="columnTestName" msprop:Generator_ColumnPropNameInRow="TestName" msprop:Generator_ColumnPropNameInTable="TestNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Details" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Details" msprop:Generator_ColumnVarNameInTable="columnDetails" msprop:Generator_ColumnPropNameInRow="Details" msprop:Generator_ColumnPropNameInTable="DetailsColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="501" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="QPFStatus" msprop:Generator_UserColumnName="QPFStatus" msprop:Generator_ColumnVarNameInTable="columnQPFStatus" msprop:Generator_ColumnPropNameInRow="QPFStatus" msprop:Generator_ColumnPropNameInTable="QPFStatusColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="QPFComment" msprop:Generator_UserColumnName="QPFComment" msprop:Generator_ColumnVarNameInTable="columnQPFComment" msprop:Generator_ColumnPropNameInRow="QPFComment" msprop:Generator_ColumnPropNameInTable="QPFCommentColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Confirmation" msprop:Generator_UserColumnName="Confirmation" msprop:Generator_ColumnVarNameInTable="columnConfirmation" msprop:Generator_ColumnPropNameInRow="Confirmation" msprop:Generator_ColumnPropNameInTable="ConfirmationColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AgeingResultComment" msprop:Generator_UserColumnName="AgeingResultComment" msprop:Generator_ColumnVarNameInTable="columnAgeingResultComment" msprop:Generator_ColumnPropNameInRow="AgeingResultComment" msprop:Generator_ColumnPropNameInTable="AgeingResultCommentColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CheckedBy" msprop:Generator_UserColumnName="CheckedBy" msprop:Generator_ColumnVarNameInTable="columnCheckedBy" msprop:Generator_ColumnPropNameInRow="CheckedBy" msprop:Generator_ColumnPropNameInTable="CheckedByColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VerifiedBy" msprop:Generator_UserColumnName="VerifiedBy" msprop:Generator_ColumnVarNameInTable="columnVerifiedBy" msprop:Generator_ColumnPropNameInRow="VerifiedBy" msprop:Generator_ColumnPropNameInTable="VerifiedByColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FormulaNo" msprop:Generator_UserColumnName="FormulaNo" msprop:Generator_ColumnVarNameInTable="columnFormulaNo" msprop:Generator_ColumnPropNameInRow="FormulaNo" msprop:Generator_ColumnPropNameInTable="FormulaNoColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MfgWo" msprop:Generator_UserColumnName="MfgWo" msprop:Generator_ColumnVarNameInTable="columnMfgWo" msprop:Generator_ColumnPropNameInRow="MfgWo" msprop:Generator_ColumnPropNameInTable="MfgWoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MfgDate" msprop:Generator_UserColumnName="MfgDate" msprop:Generator_ColumnVarNameInTable="columnMfgDate" msprop:Generator_ColumnPropNameInRow="MfgDate" msprop:Generator_ColumnPropNameInTable="MfgDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FillingDate" msprop:Generator_UserColumnName="FillingDate" msprop:Generator_ColumnVarNameInTable="columnFillingDate" msprop:Generator_ColumnPropNameInRow="FillingDate" msprop:Generator_ColumnPropNameInTable="FillingDateColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

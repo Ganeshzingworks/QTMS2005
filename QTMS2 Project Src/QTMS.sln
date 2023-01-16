@@ -1,0 +1,57 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTMS", "QTMS.csproj", "{F80B322D-A02D-4A71-97A4-015F69287B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessFacade", "BusinessFacade\BusinessFacade.csproj", "{31C2974A-B783-499A-A717-99508FDB037B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QTMS_Setup", "QTMS_Setup\QTMS_Setup.vdproj", "{77F6C199-0091-47FE-882F-53111845811F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTMS.Tools", "QTMS.Tools\QTMS.Tools.csproj", "{892DD362-F7C7-427E-895B-D86220780A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTMS.OEEAnanlysisReport", "..\QTMS.OEEAnanlysisReport\QTMS.OEEAnanlysisReport.csproj", "{94C1C4C8-514B-4690-8E37-C5A47164215E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80B322D-A02D-4A71-97A4-015F69287B3F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F80B322D-A02D-4A71-97A4-015F69287B3F}.Debug|Any CPU.Build.0 = Debug|x86
+		{F80B322D-A02D-4A71-97A4-015F69287B3F}.Debug|x86.ActiveCfg = Debug|x86
+		{F80B322D-A02D-4A71-97A4-015F69287B3F}.Debug|x86.Build.0 = Debug|x86
+		{F80B322D-A02D-4A71-97A4-015F69287B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80B322D-A02D-4A71-97A4-015F69287B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80B322D-A02D-4A71-97A4-015F69287B3F}.Release|x86.ActiveCfg = Release|x86
+		{F80B322D-A02D-4A71-97A4-015F69287B3F}.Release|x86.Build.0 = Release|x86
+		{31C2974A-B783-499A-A717-99508FDB037B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{31C2974A-B783-499A-A717-99508FDB037B}.Debug|Any CPU.Build.0 = Debug|x86
+		{31C2974A-B783-499A-A717-99508FDB037B}.Debug|x86.ActiveCfg = Debug|x86
+		{31C2974A-B783-499A-A717-99508FDB037B}.Debug|x86.Build.0 = Debug|x86
+		{31C2974A-B783-499A-A717-99508FDB037B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C2974A-B783-499A-A717-99508FDB037B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C2974A-B783-499A-A717-99508FDB037B}.Release|x86.ActiveCfg = Release|x86
+		{31C2974A-B783-499A-A717-99508FDB037B}.Release|x86.Build.0 = Release|x86
+		{77F6C199-0091-47FE-882F-53111845811F}.Debug|Any CPU.ActiveCfg = Debug
+		{77F6C199-0091-47FE-882F-53111845811F}.Debug|x86.ActiveCfg = Debug
+		{77F6C199-0091-47FE-882F-53111845811F}.Release|Any CPU.ActiveCfg = Release
+		{77F6C199-0091-47FE-882F-53111845811F}.Release|x86.ActiveCfg = Release
+		{892DD362-F7C7-427E-895B-D86220780A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892DD362-F7C7-427E-895B-D86220780A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892DD362-F7C7-427E-895B-D86220780A3B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{892DD362-F7C7-427E-895B-D86220780A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892DD362-F7C7-427E-895B-D86220780A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892DD362-F7C7-427E-895B-D86220780A3B}.Release|x86.ActiveCfg = Release|Any CPU
+		{94C1C4C8-514B-4690-8E37-C5A47164215E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C1C4C8-514B-4690-8E37-C5A47164215E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C1C4C8-514B-4690-8E37-C5A47164215E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{94C1C4C8-514B-4690-8E37-C5A47164215E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C1C4C8-514B-4690-8E37-C5A47164215E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C1C4C8-514B-4690-8E37-C5A47164215E}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

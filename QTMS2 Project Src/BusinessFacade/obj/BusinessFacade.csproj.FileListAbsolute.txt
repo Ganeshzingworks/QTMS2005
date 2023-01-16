@@ -1,0 +1,182 @@
+D:\SanjivProjects\QTMS.root\QTMS\BusinessFacade\bin\Debug\BusinessFacade.dll
+D:\SanjivProjects\QTMS.root\QTMS\BusinessFacade\bin\Debug\BusinessFacade.pdb
+D:\SanjivProjects\QTMS.root\QTMS\BusinessFacade\bin\Debug\DataFacade.dll
+D:\SanjivProjects\QTMS.root\QTMS\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+D:\SanjivProjects\QTMS.root\QTMS\BusinessFacade\obj\Debug\BusinessFacade.dll
+D:\SanjivProjects\QTMS.root\QTMS\BusinessFacade\obj\Debug\BusinessFacade.pdb
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.dll
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.pdb
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\bin\Debug\DataFacade.dll
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.dll
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.xml
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.csproj.ResolveComReference.cache
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.dll
+F:\Projects\Loreal QTMS2\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.pdb
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.dll
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.pdb
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\DataFacade.dll
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.dll
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.xml
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.csproj.ResolveComReference.cache
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.dll
+K:\Work\Loreal QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.pdb
+D:\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.dll
+D:\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.pdb
+D:\QTMS2 Project Src\BusinessFacade\bin\Debug\DataFacade.dll
+D:\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.dll
+D:\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.xml
+D:\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\QTMS2 Project Src\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+D:\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.csproj.ResolveComReference.cache
+D:\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.dll
+D:\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.pdb
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.dll
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.pdb
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\bin\Debug\DataFacade.dll
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.dll
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.xml
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.csproj.ResolveComReference.cache
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.dll
+K:\Work\SCOOP-QTMS\Merged\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.pdb
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.dll
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.pdb
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\DataFacade.dll
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.dll
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.dll
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Vbe.Interop.dll
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.xml
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.xml
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.csproj.ResolveComReference.cache
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.dll
+K:\Work\SCOOP-QTMS\MergegedCom2QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.pdb
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.dll
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.pdb
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\bin\Debug\DataFacade.dll
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.dll
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.xml
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.csproj.ResolveComReference.cache
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.dll
+F:\Manish_Live_Work\Scoop_QTMS_Merged_Fnl\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.pdb
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.dll
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.pdb
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\DataFacade.dll
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.dll
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.xml
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.csproj.ResolveComReference.cache
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.dll
+E:\Projects\Updated\QTMS\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.pdb
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.dll
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.pdb
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\DataFacade.dll
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.dll
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.xml
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.csproj.ResolveComReference.cache
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.dll
+E:\Projects\Updated\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.pdb
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\BusinessFacade.pdb
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\DataFacade.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Office.xml
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\Debug\ResolveAssemblyReference.cache
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.csproj.ResolveComReference.cache
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\Debug\BusinessFacade.pdb
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.pdb
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\DataFacade.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\Office.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\Office.xml
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.csproj.ResolveComReference.cache
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.dll
+D:\SanjivProjects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.pdb
+D:\Avinash Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.dll
+D:\Avinash Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.pdb
+D:\Avinash Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\DataFacade.dll
+D:\Avinash Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Avinash Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.csproj.ResolveComReference.cache
+D:\Avinash Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.dll
+D:\Avinash Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.pdb
+D:\Avinash_Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.dll
+D:\Avinash_Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.pdb
+D:\Avinash_Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\DataFacade.dll
+D:\Avinash_Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Avinash_Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.csproj.ResolveComReference.cache
+D:\Avinash_Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.dll
+D:\Avinash_Projects\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.pdb
+D:\Avinash_Projects\OLD\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.dll
+D:\Avinash_Projects\OLD\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.pdb
+D:\Avinash_Projects\OLD\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\DataFacade.dll
+D:\Avinash_Projects\OLD\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Avinash_Projects\OLD\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.csproj.ResolveComReference.cache
+D:\Avinash_Projects\OLD\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.dll
+D:\Avinash_Projects\OLD\QTMS_Scoop_Merged_Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.pdb
+D:\Avinash_Projects\QTMS Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.dll
+D:\Avinash_Projects\QTMS Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.pdb
+D:\Avinash_Projects\QTMS Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\DataFacade.dll
+D:\Avinash_Projects\QTMS Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Avinash_Projects\QTMS Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.csproj.ResolveComReference.cache
+D:\Avinash_Projects\QTMS Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.dll
+D:\Avinash_Projects\QTMS Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.pdb
+E:\Vijay\QTMS Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.dll
+E:\Vijay\QTMS Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.pdb
+E:\Vijay\QTMS Live\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\DataFacade.dll
+E:\Vijay\QTMS Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Vijay\QTMS Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.csproj.ResolveComReference.cache
+E:\Vijay\QTMS Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.dll
+E:\Vijay\QTMS Live\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.pdb
+E:\Vijay\QTMS Live\Baddi\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.dll
+E:\Vijay\QTMS Live\Baddi\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.pdb
+E:\Vijay\QTMS Live\Baddi\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\DataFacade.dll
+E:\Vijay\QTMS Live\Baddi\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Vijay\QTMS Live\Baddi\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.csproj.ResolveComReference.cache
+E:\Vijay\QTMS Live\Baddi\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.dll
+E:\Vijay\QTMS Live\Baddi\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.pdb
+E:\TestLineOEE\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.dll
+E:\TestLineOEE\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.pdb
+E:\TestLineOEE\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\DataFacade.dll
+E:\TestLineOEE\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TestLineOEE\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.csproj.ResolveComReference.cache
+E:\TestLineOEE\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.dll
+E:\TestLineOEE\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.pdb
+D:\Ganesh\Projects\QTMS2 Project Src BDI\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.dll
+D:\Ganesh\Projects\QTMS2 Project Src BDI\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\BusinessFacade.pdb
+D:\Ganesh\Projects\QTMS2 Project Src BDI\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\bin\x86\Debug\DataFacade.dll
+D:\Ganesh\Projects\QTMS2 Project Src BDI\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ganesh\Projects\QTMS2 Project Src BDI\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.csproj.ResolveComReference.cache
+D:\Ganesh\Projects\QTMS2 Project Src BDI\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.dll
+D:\Ganesh\Projects\QTMS2 Project Src BDI\QTMS2 Project Src BDI\QTMS2 Project Src\BusinessFacade\obj\x86\Debug\BusinessFacade.pdb

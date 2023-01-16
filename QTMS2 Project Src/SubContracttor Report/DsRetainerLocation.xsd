@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsRetainerLocation" targetNamespace="http://tempuri.org/DsRetainerLocation.xsd" xmlns:mstns="http://tempuri.org/DsRetainerLocation.xsd" xmlns="http://tempuri.org/DsRetainerLocation.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsRetainerLocation" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsRetainerLocation" msprop:Generator_DataSetName="DsRetainerLocation">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtReatinerLocation" msprop:Generator_UserTableName="DtReatinerLocation" msprop:Generator_RowDeletedName="DtReatinerLocationRowDeleted" msprop:Generator_RowChangedName="DtReatinerLocationRowChanged" msprop:Generator_RowClassName="DtReatinerLocationRow" msprop:Generator_RowChangingName="DtReatinerLocationRowChanging" msprop:Generator_RowEvArgName="DtReatinerLocationRowChangeEvent" msprop:Generator_RowEvHandlerName="DtReatinerLocationRowChangeEventHandler" msprop:Generator_TableClassName="DtReatinerLocationDataTable" msprop:Generator_TableVarName="tableDtReatinerLocation" msprop:Generator_RowDeletingName="DtReatinerLocationRowDeleting" msprop:Generator_TablePropName="DtReatinerLocation">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FGCode" msprop:Generator_UserColumnName="FGCode" msprop:Generator_ColumnVarNameInTable="columnFGCode" msprop:Generator_ColumnPropNameInRow="FGCode" msprop:Generator_ColumnPropNameInTable="FGCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FormulaNo" msprop:Generator_UserColumnName="FormulaNo" msprop:Generator_ColumnVarNameInTable="columnFormulaNo" msprop:Generator_ColumnPropNameInRow="FormulaNo" msprop:Generator_ColumnPropNameInTable="FormulaNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MfgWo" msprop:Generator_UserColumnName="MfgWo" msprop:Generator_ColumnVarNameInTable="columnMfgWo" msprop:Generator_ColumnPropNameInRow="MfgWo" msprop:Generator_ColumnPropNameInTable="MfgWoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TrackCodeFG" msprop:Generator_UserColumnName="TrackCodeFG" msprop:Generator_ColumnVarNameInTable="columnTrackCodeFG" msprop:Generator_ColumnPropNameInRow="TrackCodeFG" msprop:Generator_ColumnPropNameInTable="TrackCodeFGColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Location" msprop:Generator_UserColumnName="Location" msprop:Generator_ColumnVarNameInTable="columnLocation" msprop:Generator_ColumnPropNameInRow="Location" msprop:Generator_ColumnPropNameInTable="LocationColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

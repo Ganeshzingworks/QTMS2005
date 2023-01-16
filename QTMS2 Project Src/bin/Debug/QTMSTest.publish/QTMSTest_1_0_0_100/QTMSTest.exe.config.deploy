@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+
+
+
+  <configSections>
+
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+      <section name="QTMS.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+ 
+
+
+
+  <connectionStrings>
+    <add name="ConnectionString1" connectionString="Integrated Security=SSPI;Persist Security Info=False;User ID=sa;Initial Catalog=LABX;Data Source=INCORPFAWKS185"
+      providerName="System.Data.SqlClient" />
+    <add name="Scoop_QTMS_MergedConnectionString" connectionString="Data Source=incorpfaappsrv;database=QTMS;UID=sa;pwd=sa;connect timeout=0"
+      providerName="System.Data.SqlClient" />
+    <add name="QTMS.Properties.Settings.QTMS2ConnectionString" connectionString="Data Source=incorpfaappsrv;database=QTMS;UID=sa;pwd=sa;connect timeout=0"
+      providerName="System.Data.SqlClient" />
+    <add name="QTMS.Properties.Settings.QTMS2ConnectionString1" connectionString="Data Source=incorpfaappsrv;database=QTMS;UID=sa;pwd=sa;connect timeout=0"
+      providerName="System.Data.SqlClient" />
+    <add name="QTMS.Properties.Settings.Scoop_QTMS_MergedConnectionString"
+      connectionString="Data Source=incorpfaappsrv;database=QTMS;UID=sa;pwd=sa;connect timeout=0"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>
+
+  <appSettings>
+
+    <!--Connection string for Loreal DB-->
+
+    <!--Buddi DataBase-->
+    <!--<add key="connectionstring"  value="server=INCORPBAAPPSRV\BDI_APPSRV;database=QTMS_BDI;UID=sa;pwd=P@ssw0rd@12;connect timeout=0"/>-->
+    <!--Test DataBase-->
+    <!--<add key = "connectionstring" value="server=incorpfaappsrv;database=QTMSTEST;UID=sa;pwd=sa;connect timeout=0"/>-->
+    <!--Live DataBase-->
+    <add key="connectionstring"   value="server=incorpfaappsrv;database=QTMS;UID=sa;pwd=sa;connect timeout=0"/>
+
+    <!--Connection string for Aryan Test DB-->
+    <!--<add key="connectionstring"   value="server=ARYANSVR\SQL2000;database=QTMS2;UID=sa;pwd=sa;connect timeout=0"/>-->
+    <!--<add key="connectionstring"   value="server=ARYANSVR\SQL2000;database=QTMSTest2;UID=sa;pwd=sa;connect timeout=0"/>-->
+    <!--<add key="connectionstring"  value="server=ARYANSVR\SQL2000;database=QTMS_080912;UID=sa;pwd=sa;connect timeout=0"/>-->
+    <!--<add key="connectionstring"   value="server=ARYANSVR\SQL2000;database=QTMS_Demo;UID=loreal;pwd=loreal;connect timeout=0"/>-->
+    <!--<add key="connectionstring"  value="server=ARYANSVR\SQL2000;database=QTMS_LIVE;UID=sa;pwd=sa;connect timeout=0"/>-->
+    <!--<add key="connectionstring"  value="server=ARYANSVR\SQL2000;database=QTMS_LiveFromClient;UID=sa;pwd=sa;connect timeout=0"/>-->
+    <!--<add key="connectionstring"  value="server=ARYANSVR\SQL2008;database=QTMS;UID=sa;pwd=Sql2008;connect timeout=0"/>-->
+    <!--<add key="connectionstring"  value="server=ARYANSVR\SQL2000;database=QTMS_LiveFromClient;UID=sa;pwd=sa;connect timeout=0"/>-->
+    <!--<add key="connectionstring"  value="server=KAIREEAIBC\SQL2008;database=QTMSTest;UID=sa;pwd=Sql2008;connect timeout=0"/>-->
+    <add key="Version" value="20090626"/>
+    <!--Image Comparison URL-->
+    <!--<add key="ImageComparisonUrl" value="http://localhost/IPM/Default.aspx"/>-->
+    <!--Image Comparison URL for Loreal URL-->
+    <add key="ImageComparisonUrl" value="http://incorpfawks102/imagecompare/default.aspx"/>
+    <!--<add key="ImageComparisonUrl" value="http://soft125/imgcmp/default.aspx"/>-->
+    <!--url link of Image Compare is http://incorpfawks102/imagecompare/default.aspx add url in value only. machine name is incorpfawks102-->
+    <!-- Soft12 Test FTP Path -->
+    <add key="RootPath" value="\\Soft12\QTMS"/>
+    <add key="FTPUsername" value="kairee\ganeshm"/>
+    <add key="FTPPassword" value="admin"/>
+    <add key="FTPPort" value="21"/>
+    <add key="FTPHost" value="soft12"/>
+    <add key="FTPDirectory" value="QTMS"/>
+    <add key="PrintFlag" value="false"/>
+    <add key="X" value="183"/>
+    <add key="Y" value="190"/>
+    <add key="CompanyName" value="For M/s Kairee Systems Pvt. Ltd."/>
+    <add key="UserWisePermission" value="true"/>
+    <add key="StylesSheetFilename" value="black"/>
+    <!-- incorpfaappsrv FTP Path  -->
+    <!--<add key="RootPath" value="\\incorpfaappsrv\QTMSFTPFile"/>
+    <add key="FTPUsername" value="INCORPFAAPPSRV\Administrator"/>
+    <add key="FTPPassword" value="P@ssw0rd"/>
+    <add key="FTPPort" value="21"/>
+    <add key="FTPHost" value="INCORPFAAPPSRV"/>
+    <add key="FTPDirectory" value="QTMSFTPFile"/>
+    <add key="PrintFlag" value="false"/>
+    <add key="X" value="183"/>
+    <add key="Y" value="190"/>
+    <add key="CompanyName" value="For M/s Kairee Systems Pvt. Ltd."/>
+    <add key="UserWisePermission" value="true"/>
+    <add key="StylesSheetFilename" value="black"/>-->
+
+
+  </appSettings>
+
+  <userSettings>
+    <QTMS.Properties.Settings>
+      <setting name="LotDossierDocumentNo" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="PMAnalysisDocumentNo" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="FGAnalysisDocumentNo" serializeAs="String">
+        <value />
+      </setting>
+    </QTMS.Properties.Settings>
+  </userSettings>
+
+  <system.net>
+    <mailSettings>
+      <smtp>
+        <!--<Loreal Host ID />-->
+
+        <network host="10.1.1.12" port="25" userName="apandit@in.loreal.com" password="Factory@2178" defaultCredentials="true"/>
+
+        <!--<kairee Host ID />-->
+
+        <!--<network host="mail.kairee.in" port="25" userName="ganesh.malusare@kairee.in" password="gan123" defaultCredentials="true"/>-->
+      </smtp>
+    </mailSettings>
+  </system.net>
+
+</configuration>

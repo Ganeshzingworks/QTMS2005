@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsBulkValidated" targetNamespace="http://tempuri.org/DsBulkValidated.xsd" xmlns:mstns="http://tempuri.org/DsBulkValidated.xsd" xmlns="http://tempuri.org/DsBulkValidated.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsBulkValidated" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsBulkValidated" msprop:Generator_DataSetName="DsBulkValidated">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtBulkValidateNonValidate" msprop:Generator_UserTableName="DtBulkValidateNonValidate" msprop:Generator_RowDeletedName="DtBulkValidateNonValidateRowDeleted" msprop:Generator_TableClassName="DtBulkValidateNonValidateDataTable" msprop:Generator_RowChangedName="DtBulkValidateNonValidateRowChanged" msprop:Generator_RowClassName="DtBulkValidateNonValidateRow" msprop:Generator_RowChangingName="DtBulkValidateNonValidateRowChanging" msprop:Generator_RowEvArgName="DtBulkValidateNonValidateRowChangeEvent" msprop:Generator_RowEvHandlerName="DtBulkValidateNonValidateRowChangeEventHandler" msprop:Generator_TablePropName="DtBulkValidateNonValidate" msprop:Generator_TableVarName="tableDtBulkValidateNonValidate" msprop:Generator_RowDeletingName="DtBulkValidateNonValidateRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FormulaNo" msprop:Generator_UserColumnName="FormulaNo" msprop:Generator_ColumnPropNameInRow="FormulaNo" msprop:Generator_ColumnVarNameInTable="columnFormulaNo" msprop:Generator_ColumnPropNameInTable="FormulaNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BulkDesc" msprop:Generator_UserColumnName="BulkDesc" msprop:Generator_ColumnPropNameInRow="BulkDesc" msprop:Generator_ColumnVarNameInTable="columnBulkDesc" msprop:Generator_ColumnPropNameInTable="BulkDescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MfgWo" msprop:Generator_UserColumnName="MfgWo" msprop:Generator_ColumnPropNameInRow="MfgWo" msprop:Generator_ColumnVarNameInTable="columnMfgWo" msprop:Generator_ColumnPropNameInTable="MfgWoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BatchSize" msprop:Generator_UserColumnName="BatchSize" msprop:Generator_ColumnPropNameInRow="BatchSize" msprop:Generator_ColumnVarNameInTable="columnBatchSize" msprop:Generator_ColumnPropNameInTable="BatchSizeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="InspDate" msprop:Generator_UserColumnName="InspDate" msprop:Generator_ColumnPropNameInRow="InspDate" msprop:Generator_ColumnVarNameInTable="columnInspDate" msprop:Generator_ColumnPropNameInTable="InspDateColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

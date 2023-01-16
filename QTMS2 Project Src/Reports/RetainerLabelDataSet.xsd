@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RetainerLabelDataSet" targetNamespace="http://tempuri.org/RetainerLabelDataSet.xsd" xmlns:mstns="http://tempuri.org/RetainerLabelDataSet.xsd" xmlns="http://tempuri.org/RetainerLabelDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QTMS2ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="QTMS2ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QTMS.Properties.Settings.GlobalReference.Default.QTMS2ConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RetainerLabelDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="RetainerLabelDataSet" msprop:Generator_DataSetName="RetainerLabelDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dt" msprop:Generator_UserTableName="dt" msprop:Generator_RowDeletedName="dtRowDeleted" msprop:Generator_RowChangedName="dtRowChanged" msprop:Generator_RowClassName="dtRow" msprop:Generator_RowChangingName="dtRowChanging" msprop:Generator_RowEvArgName="dtRowChangeEvent" msprop:Generator_RowEvHandlerName="dtRowChangeEventHandler" msprop:Generator_TableClassName="dtDataTable" msprop:Generator_TableVarName="tabledt" msprop:Generator_RowDeletingName="dtRowDeleting" msprop:Generator_TablePropName="dt">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RMCode" msprop:Generator_UserColumnName="RMCode" msprop:Generator_ColumnVarNameInTable="columnRMCode" msprop:Generator_ColumnPropNameInRow="RMCode" msprop:Generator_ColumnPropNameInTable="RMCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PlantLotNo" msprop:Generator_UserColumnName="PlantLotNo" msprop:Generator_ColumnVarNameInTable="columnPlantLotNo" msprop:Generator_ColumnPropNameInRow="PlantLotNo" msprop:Generator_ColumnPropNameInTable="PlantLotNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ReceiptDate" msprop:Generator_UserColumnName="ReceiptDate" msprop:Generator_ColumnVarNameInTable="columnReceiptDate" msprop:Generator_ColumnPropNameInRow="ReceiptDate" msprop:Generator_ColumnPropNameInTable="ReceiptDateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DisposalDate" msprop:Generator_UserColumnName="DisposalDate" msprop:Generator_ColumnVarNameInTable="columnDisposalDate" msprop:Generator_ColumnPropNameInRow="DisposalDate" msprop:Generator_ColumnPropNameInTable="DisposalDateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SafetyImage1" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage1" msprop:Generator_ColumnVarNameInTable="columnSafetyImage1" msprop:Generator_ColumnPropNameInRow="SafetyImage1" msprop:Generator_ColumnPropNameInTable="SafetyImage1Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SafetyImage2" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage2" msprop:Generator_ColumnVarNameInTable="columnSafetyImage2" msprop:Generator_ColumnPropNameInRow="SafetyImage2" msprop:Generator_ColumnPropNameInTable="SafetyImage2Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SafetyImage3" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage3" msprop:Generator_ColumnVarNameInTable="columnSafetyImage3" msprop:Generator_ColumnPropNameInRow="SafetyImage3" msprop:Generator_ColumnPropNameInTable="SafetyImage3Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SafetyImage4" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage4" msprop:Generator_ColumnVarNameInTable="columnSafetyImage4" msprop:Generator_ColumnPropNameInRow="SafetyImage4" msprop:Generator_ColumnPropNameInTable="SafetyImage4Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SafetyImage5" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage5" msprop:Generator_ColumnVarNameInTable="columnSafetyImage5" msprop:Generator_ColumnPropNameInRow="SafetyImage5" msprop:Generator_ColumnPropNameInTable="SafetyImage5Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SafetyImage6" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage6" msprop:Generator_ColumnVarNameInTable="columnSafetyImage6" msprop:Generator_ColumnPropNameInRow="SafetyImage6" msprop:Generator_ColumnPropNameInTable="SafetyImage6Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SafetyImage7" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage7" msprop:Generator_ColumnVarNameInTable="columnSafetyImage7" msprop:Generator_ColumnPropNameInRow="SafetyImage7" msprop:Generator_ColumnPropNameInTable="SafetyImage7Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SafetyImage8" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage8" msprop:Generator_ColumnVarNameInTable="columnSafetyImage8" msprop:Generator_ColumnPropNameInRow="SafetyImage8" msprop:Generator_ColumnPropNameInTable="SafetyImage8Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SafetyImage9" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage9" msprop:Generator_ColumnVarNameInTable="columnSafetyImage9" msprop:Generator_ColumnPropNameInRow="SafetyImage9" msprop:Generator_ColumnPropNameInTable="SafetyImage9Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SafetyImage10" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="SafetyImage10" msprop:Generator_ColumnVarNameInTable="columnSafetyImage10" msprop:Generator_ColumnPropNameInRow="SafetyImage10" msprop:Generator_ColumnPropNameInTable="SafetyImage10Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage1" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage1" msprop:Generator_ColumnVarNameInTable="columnAccessImage1" msprop:Generator_ColumnPropNameInRow="AccessImage1" msprop:Generator_ColumnPropNameInTable="AccessImage1Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage2" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage2" msprop:Generator_ColumnVarNameInTable="columnAccessImage2" msprop:Generator_ColumnPropNameInRow="AccessImage2" msprop:Generator_ColumnPropNameInTable="AccessImage2Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage3" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage3" msprop:Generator_ColumnVarNameInTable="columnAccessImage3" msprop:Generator_ColumnPropNameInRow="AccessImage3" msprop:Generator_ColumnPropNameInTable="AccessImage3Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage4" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage4" msprop:Generator_ColumnVarNameInTable="columnAccessImage4" msprop:Generator_ColumnPropNameInRow="AccessImage4" msprop:Generator_ColumnPropNameInTable="AccessImage4Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage5" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage5" msprop:Generator_ColumnVarNameInTable="columnAccessImage5" msprop:Generator_ColumnPropNameInRow="AccessImage5" msprop:Generator_ColumnPropNameInTable="AccessImage5Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage6" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage6" msprop:Generator_ColumnVarNameInTable="columnAccessImage6" msprop:Generator_ColumnPropNameInRow="AccessImage6" msprop:Generator_ColumnPropNameInTable="AccessImage6Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage7" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage7" msprop:Generator_ColumnVarNameInTable="columnAccessImage7" msprop:Generator_ColumnPropNameInRow="AccessImage7" msprop:Generator_ColumnPropNameInTable="AccessImage7Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage8" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage8" msprop:Generator_ColumnVarNameInTable="columnAccessImage8" msprop:Generator_ColumnPropNameInRow="AccessImage8" msprop:Generator_ColumnPropNameInTable="AccessImage8Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage9" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage9" msprop:Generator_ColumnVarNameInTable="columnAccessImage9" msprop:Generator_ColumnPropNameInRow="AccessImage9" msprop:Generator_ColumnPropNameInTable="AccessImage9Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="AccessImage10" msdata:Caption="SysImage1" msprop:Generator_UserColumnName="AccessImage10" msprop:Generator_ColumnVarNameInTable="columnAccessImage10" msprop:Generator_ColumnPropNameInRow="AccessImage10" msprop:Generator_ColumnPropNameInTable="AccessImage10Column" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="Column1" msprop:Generator_UserColumnName="Column1" msprop:Generator_ColumnVarNameInTable="columnColumn1" msprop:Generator_ColumnPropNameInRow="Column1" msprop:Generator_ColumnPropNameInTable="Column1Column" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

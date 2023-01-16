@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="FGPhyChe" targetNamespace="http://tempuri.org/FGPhyChe.xsd" xmlns:mstns="http://tempuri.org/FGPhyChe.xsd" xmlns="http://tempuri.org/FGPhyChe.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="FGPhyChe" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="FGPhyChe" msprop:Generator_DataSetName="FGPhyChe">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dt" msprop:Generator_UserTableName="dt" msprop:Generator_RowDeletedName="dtRowDeleted" msprop:Generator_RowChangedName="dtRowChanged" msprop:Generator_RowClassName="dtRow" msprop:Generator_RowChangingName="dtRowChanging" msprop:Generator_RowEvArgName="dtRowChangeEvent" msprop:Generator_RowEvHandlerName="dtRowChangeEventHandler" msprop:Generator_TableClassName="dtDataTable" msprop:Generator_TableVarName="tabledt" msprop:Generator_RowDeletingName="dtRowDeleting" msprop:Generator_TablePropName="dt">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Test" msprop:Generator_UserColumnName="Test" msprop:Generator_ColumnVarNameInTable="columnTest" msprop:Generator_ColumnPropNameInRow="Test" msprop:Generator_ColumnPropNameInTable="TestColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Min" msprop:Generator_UserColumnName="Min" msprop:Generator_ColumnVarNameInTable="columnMin" msprop:Generator_ColumnPropNameInRow="Min" msprop:Generator_ColumnPropNameInTable="MinColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Max" msprop:Generator_UserColumnName="Max" msprop:Generator_ColumnVarNameInTable="columnMax" msprop:Generator_ColumnPropNameInRow="Max" msprop:Generator_ColumnPropNameInTable="MaxColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtIdentefication_SubContract" msprop:Generator_UserTableName="dtIdentefication_SubContract" msprop:Generator_RowDeletedName="dtIdentefication_SubContractRowDeleted" msprop:Generator_TableClassName="dtIdentefication_SubContractDataTable" msprop:Generator_RowChangedName="dtIdentefication_SubContractRowChanged" msprop:Generator_RowClassName="dtIdentefication_SubContractRow" msprop:Generator_RowChangingName="dtIdentefication_SubContractRowChanging" msprop:Generator_RowEvArgName="dtIdentefication_SubContractRowChangeEvent" msprop:Generator_RowEvHandlerName="dtIdentefication_SubContractRowChangeEventHandler" msprop:Generator_TablePropName="dtIdentefication_SubContract" msprop:Generator_TableVarName="tabledtIdentefication_SubContract" msprop:Generator_RowDeletingName="dtIdentefication_SubContractRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Test" msprop:Generator_UserColumnName="Test" msprop:Generator_ColumnPropNameInRow="Test" msprop:Generator_ColumnVarNameInTable="columnTest" msprop:Generator_ColumnPropNameInTable="TestColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Min" msprop:Generator_UserColumnName="Min" msprop:Generator_ColumnPropNameInRow="Min" msprop:Generator_ColumnVarNameInTable="columnMin" msprop:Generator_ColumnPropNameInTable="MinColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Max" msprop:Generator_UserColumnName="Max" msprop:Generator_ColumnPropNameInRow="Max" msprop:Generator_ColumnVarNameInTable="columnMax" msprop:Generator_ColumnPropNameInTable="MaxColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LorealResult" msprop:Generator_UserColumnName="LorealResult" msprop:Generator_ColumnPropNameInRow="LorealResult" msprop:Generator_ColumnVarNameInTable="columnLorealResult" msprop:Generator_ColumnPropNameInTable="LorealResultColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SupplierResult" msprop:Generator_UserColumnName="SupplierResult" msprop:Generator_ColumnPropNameInRow="SupplierResult" msprop:Generator_ColumnVarNameInTable="columnSupplierResult" msprop:Generator_ColumnPropNameInTable="SupplierResultColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtControl_SubContract" msprop:Generator_UserTableName="dtControl_SubContract" msprop:Generator_RowDeletedName="dtControl_SubContractRowDeleted" msprop:Generator_TableClassName="dtControl_SubContractDataTable" msprop:Generator_RowChangedName="dtControl_SubContractRowChanged" msprop:Generator_RowClassName="dtControl_SubContractRow" msprop:Generator_RowChangingName="dtControl_SubContractRowChanging" msprop:Generator_RowEvArgName="dtControl_SubContractRowChangeEvent" msprop:Generator_RowEvHandlerName="dtControl_SubContractRowChangeEventHandler" msprop:Generator_TablePropName="dtControl_SubContract" msprop:Generator_TableVarName="tabledtControl_SubContract" msprop:Generator_RowDeletingName="dtControl_SubContractRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Test" msprop:Generator_UserColumnName="Test" msprop:Generator_ColumnPropNameInRow="Test" msprop:Generator_ColumnVarNameInTable="columnTest" msprop:Generator_ColumnPropNameInTable="TestColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Min" msprop:Generator_UserColumnName="Min" msprop:Generator_ColumnPropNameInRow="Min" msprop:Generator_ColumnVarNameInTable="columnMin" msprop:Generator_ColumnPropNameInTable="MinColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Max" msprop:Generator_UserColumnName="Max" msprop:Generator_ColumnPropNameInRow="Max" msprop:Generator_ColumnVarNameInTable="columnMax" msprop:Generator_ColumnPropNameInTable="MaxColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LorealResult" msprop:Generator_UserColumnName="LorealResult" msprop:Generator_ColumnPropNameInRow="LorealResult" msprop:Generator_ColumnVarNameInTable="columnLorealResult" msprop:Generator_ColumnPropNameInTable="LorealResultColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SupplierResult" msprop:Generator_UserColumnName="SupplierResult" msprop:Generator_ColumnPropNameInRow="SupplierResult" msprop:Generator_ColumnVarNameInTable="columnSupplierResult" msprop:Generator_ColumnPropNameInTable="SupplierResultColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

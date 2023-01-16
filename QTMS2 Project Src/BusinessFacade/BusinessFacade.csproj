@@ -1,0 +1,280 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{31C2974A-B783-499A-A717-99508FDB037B}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>BusinessFacade</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>BusinessFacade</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <Optimize>true</Optimize>
+    <DebugType>
+    </DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DataFacade, Version=1.0.2581.27995, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\DataFacade.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Office, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgitationMaster_Class.cs" />
+    <Compile Include="AnnextureTankMaster_Class.cs" />
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BAGPMCode.cs" />
+    <Compile Include="BulkFamilyMaster_Class.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CheckValidMail.cs" />
+    <Compile Include="CompatibilityMaster_Class.cs" />
+    <Compile Include="CountryMaster_Class.cs" />
+    <Compile Include="DimensionParaMaster_Class.cs" />
+    <Compile Include="DimensionParameter_Class.cs" />
+    <Compile Include="ExportToExcel.cs" />
+    <Compile Include="FgFamilyMethodMaster_Class.cs" />
+    <Compile Include="FGGlobalFamilyMaster_Class.cs" />
+    <Compile Include="FGOutSource_Class.cs" />
+    <Compile Include="FGPhyCheTestMethodMaster_Class.cs" />
+    <Compile Include="FGSupplierMaster.cs" />
+    <Compile Include="FGTestMaster_Class.cs" />
+    <Compile Include="FinishedGoodMaster_Class.cs" />
+    <Compile Include="FinishedGoodMethodMaster_Class.cs" />
+    <Compile Include="FormulaNoMaster_Class.cs" />
+    <Compile Include="GroupMaster_Class.cs" />
+    <Compile Include="InstrumentMaster_Class.cs" />
+    <Compile Include="LayoutLineMaster_Class.cs" />
+    <Compile Include="LayoutLineValidationMaster_Class.cs" />
+    <Compile Include="LayoutLineValidationTransaction_Class.cs" />
+    <Compile Include="LineMaster_Class.cs" />
+    <Compile Include="LineOEEFGMaster_Class.cs" />
+    <Compile Include="LineOEEMachineMaster_Class.cs" />
+    <Compile Include="LineSamplingPointMaster_Class.cs" />
+    <Compile Include="LineTransactionMaster_Class.cs" />
+    <Compile Include="LineTransactionRejectionMaster_Class.cs" />
+    <Compile Include="LineTransaction_Class.cs" />
+    <Compile Include="LocationMaster_Class.cs" />
+    <Compile Include="Mettler_Class.cs" />
+    <Compile Include="MomMaster_Class .cs" />
+    <Compile Include="PackingFamilyMaster_Class.cs" />
+    <Compile Include="PMFamilyMaster_Class.cs" />
+    <Compile Include="PMMaster_Class.cs" />
+    <Compile Include="PMPeriodicTestMaster_Class.cs" />
+    <Compile Include="PMSupplierMaster_Class.cs" />
+    <Compile Include="PMTestMaster_Class.cs" />
+    <Compile Include="PreservetiveMaster_Class.cs" />
+    <Compile Include="PreservativeMethodMaster_Class.cs" />
+    <Compile Include="QualityIssueMaster_class.cs" />
+    <Compile Include="ReagentMaster_Class.cs" />
+    <Compile Include="ReagentSupplierMaster_Class.cs" />
+    <Compile Include="ReagentSupplierPONumber_Class.cs" />
+    <Compile Include="RetainerLocation_Class.cs" />
+    <Compile Include="RMCodeRetainerMaster_Class.cs" />
+    <Compile Include="RMCodeTestMethodMaster_Class.cs" />
+    <Compile Include="RMDescMaster_Class.cs" />
+    <Compile Include="RMFamilyMaster_Class.cs" />
+    <Compile Include="RMCodeMaster_Class.cs" />
+    <Compile Include="RMParaMaster_Class.cs" />
+    <Compile Include="RMSamplingMaster_Class.cs" />
+    <Compile Include="RMStatusChange_Class.cs" />
+    <Compile Include="RMSupplierMaster_Class.cs" />
+    <Compile Include="DocumentMaster_Class.cs" />
+    <Compile Include="SafetySymbol_Class.cs" />
+    <Compile Include="SatbilityTest_Class.cs" />
+    <Compile Include="Scoop_Class\Class_ScoopProcess.cs" />
+    <Compile Include="Scoop_Class\ScoopEventArgs.cs" />
+    <Compile Include="Scoop_Class\SCOOPTestMethodMaster_Class.cs" />
+    <Compile Include="Scoop_Class\Scoop_Report_Class.cs" />
+    <Compile Include="Scoop_Class\UPdefect_Class.cs" />
+    <Compile Include="Scoop_Class\UPMaster_Class.cs" />
+    <Compile Include="Scoop_Class\UPTestAtSamplingPoint_Class.cs" />
+    <Compile Include="Scoop_Class\UPTestSamplingPoint_Class.cs" />
+    <Compile Include="SPCMaster_Class.cs" />
+    <Compile Include="SubContractor_Class\BulktestDetailstransaction_SubContract_Class.cs" />
+    <Compile Include="SubContractor_Class\FinishedGoodTest_SubContract_Class.cs" />
+    <Compile Include="SubContractor_Class\PreservativeTest_SubContract_Class.cs" />
+    <Compile Include="SubContractor_Class\Report_SubContractor.cs" />
+    <Compile Include="TankMaster_Class.cs" />
+    <Compile Include="TestMaster_Class.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Transactions\AdjustmentTransaction.cs" />
+    <Compile Include="Transactions\AgeingTest_Class.cs" />
+    <Compile Include="Transactions\AOCSheet_Class.cs" />
+    <Compile Include="Transactions\BMRReport_Class.cs" />
+    <Compile Include="Transactions\BulktestDetailstransaction_Class.cs" />
+    <Compile Include="Transactions\Comman_Class.cs" />
+    <Compile Include="Transactions\ConsumerComplaint_Class.cs" />
+    <Compile Include="Transactions\DimensionParaTransaction_Class.cs" />
+    <Compile Include="Transactions\FGDecleration_Class.cs" />
+    <Compile Include="Transactions\FGPending_Class.cs" />
+    <Compile Include="Transactions\FGRefMgmtTransaction.cs" />
+    <Compile Include="Transactions\FGReleaseDossier.cs" />
+    <Compile Include="Transactions\HPLCRefMgmt_Class.cs" />
+    <Compile Include="Transactions\LineOEETransaction.cs" />
+    <Compile Include="Transactions\Line_SamplePoint.cs" />
+    <Compile Include="Transactions\LotDossier_Class.cs" />
+    <Compile Include="Transactions\DyeKit_Class.cs" />
+    <Compile Include="Transactions\FDAMaster_Class.cs" />
+    <Compile Include="Transactions\FDATransaction_Class.cs" />
+    <Compile Include="Transactions\FinishedGoodTest_Class.cs" />
+    <Compile Include="Transactions\LineSampleDetails_Class.cs" />
+    <Compile Include="Transactions\LineSamplePackingDetails_Class.cs" />
+    <Compile Include="Transactions\LineTesting_Class.cs" />
+    <Compile Include="Transactions\Microbiologytest_Class.cs" />
+    <Compile Include="Transactions\OEEAct_CatRelation.cs" />
+    <Compile Include="Transactions\OEEDetailProcessingReport.cs" />
+    <Compile Include="Transactions\OEETransactionTest_Class.cs" />
+    <Compile Include="Transactions\OOS.cs" />
+    <Compile Include="Transactions\PMStatusChange_Class.cs" />
+    <Compile Include="Transactions\PMTransaction_Class.cs" />
+    <Compile Include="Transactions\PMTreatment_Class.cs" />
+    <Compile Include="Transactions\PreservativeTest_Class.cs" />
+    <Compile Include="Transactions\ReagentConsumption_Class.cs" />
+    <Compile Include="Transactions\ReagentStandardization_Class.cs" />
+    <Compile Include="Transactions\ReagentTransaction_Class.cs" />
+    <Compile Include="Transactions\Reagent_Report_Class.cs" />
+    <Compile Include="Transactions\Report_Class.cs" />
+    <Compile Include="Transactions\RMMicrobiologytest_Class.cs" />
+    <Compile Include="Transactions\RMTransaction_Class.cs" />
+    <Compile Include="Transactions\RMValidityReport_Class.cs" />
+    <Compile Include="Transactions\RSMgmtTransaction_Class.cs" />
+    <Compile Include="Transactions\SatbilityTestConfiguration_Class.cs" />
+    <Compile Include="Transactions\UserData.cs" />
+    <Compile Include="Transactions\WaterAnalysis_Class.cs" />
+    <Compile Include="UserManagement_Class.cs" />
+    <Compile Include="VesselMaster_Class.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>
